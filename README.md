@@ -7,13 +7,19 @@
 
 Создаём директорию для нашего проекта 
 
-`mkdir test_compose`    
+```
+mkdir test_compose
+```    
 И сразу перейдём в нее  
-`cd test_compose`  
+```
+cd test_compose
+```  
 
 ### Создадим yaml фаил
 
-`nano compose.yaml`
+```
+nano compose.yaml
+```
 
 и заполняем его
 
